@@ -1,6 +1,3 @@
-MAGLENTE,ALFRED B.
-BSCpE-4B
-
 QUIZ #1:
 	It is functional because it has already had an operating system and it works very well. The raspberry pi led is also working. 
 Another way to know its functional is when the green led is blinking and  the red led is steady. If the power led ( the red one) is blinking it indicates 
